@@ -9,7 +9,7 @@ order: null
 cover: null
 customCss: null
 publishedAt: "2026-04-26T00:35:49.966Z"
-updatedAt: "2026-04-26T01:57:45.386Z"
+updatedAt: "2026-04-26T17:09:59.511Z"
 ---
 
 # 자기소개서 — .NET 백엔드
