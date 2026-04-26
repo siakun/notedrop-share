@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-26T00:45:17.612Z",
+  "generatedBy": "notedrop-plugin",
+  "items": [
+    {
+      "hash": "17813d9c-0e93-4378-b96b-a2dff213ec8e",
+      "slug": null,
+      "title": "자기소개서 - .NET 백엔드",
+      "cover": null,
+      "render": "doc",
+      "type": "entry",
+      "parent": null,
+      "order": null,
+      "chapters": null,
+      "updatedAt": "2026-04-26T00:44:49.024Z"
+    }
+  ]
+}
