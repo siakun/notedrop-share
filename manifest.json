@@ -1,19 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-26T00:00:00.000Z",
-  "generatedBy": "notedrop-bootstrap",
+  "generatedAt": "2026-04-26T19:17:05.095Z",
+  "generatedBy": "notedrop-plugin",
   "items": [
     {
-      "hash": "welcome",
-      "slug": "welcome",
-      "title": "notedrop 에 오신 것을 환영합니다",
+      "hash": "17813d9c-0e93-4378-b96b-a2dff213ec8e",
+      "slug": null,
+      "title": "자기소개서 - .NET 백엔드",
       "cover": null,
       "render": "doc",
       "type": "entry",
       "parent": null,
       "order": null,
       "chapters": null,
-      "updatedAt": "2026-04-26T00:00:00.000Z"
+      "updatedAt": "2026-04-26T19:16:50.524Z"
+    },
+    {
+      "hash": "133c0659-3cff-40c1-bd63-12a5e02e6c38",
+      "slug": null,
+      "title": "자기소개서 - .NET 백엔드 (주제별)",
+      "cover": null,
+      "render": "doc",
+      "type": "entry",
+      "parent": null,
+      "order": null,
+      "chapters": null,
+      "updatedAt": "2026-04-26T19:16:50.524Z"
     }
   ]
 }
